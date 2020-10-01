@@ -10,15 +10,13 @@
 
 title: Emberwatch                          # the main title
 
-tagline: A crazy D&D world  # it will display as the sub-title
+tagline: A crazy D&D world, built by players and DMs alike.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://jpcranford.github.io/emberwatch-chirpy'
+url: 'https://jpcranford.github.io'
 
 author: J.P. Cranford                  # change to your full name
 
@@ -32,10 +30,10 @@ twitter:
 
 social:
   name: J.P. Cranford                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/ldsmadman      # change to your twitter homepage
     - https://github.com/jpcranford       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
