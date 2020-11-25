@@ -26,11 +26,11 @@ github:
   username: jpcranford             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: ldsmadman            # change to your twitter username
 
 social:
   name: J.P. Cranford                  # it will shows as the copyright owner in Footer
-  email: example@domain.com             # change to your email address
+  # email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ldsmadman      # change to your twitter homepage
@@ -46,7 +46,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: '/emberwatch-chirpy'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Denver
