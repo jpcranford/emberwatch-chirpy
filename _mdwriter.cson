@@ -221,7 +221,7 @@ imageTag: "![{alt}]({src})"
 # Use relative path to image from the opened file
 relativeImagePath: false
 # Rename copyed image based on title/alt
-renameImageOnCopy: false
+renameImageOnCopy: true
 
 # Inline link tag template
 linkInlineTag: "[{text}]({url})"
@@ -242,10 +242,10 @@ footnoteInsertPosition: "paragraph"
 # Table default alignments: "empty", "left", "right", "center"
 tableAlignment: "empty"
 # Insert extra pipes at the beginning and the end of table rows
-tableExtraPipes: false
+tableExtraPipes: true
 
 # Fold inline links at insertion
-foldInlineLinks: false
+foldInlineLinks: true
 
 # Template variables is a key-value map used in template string
 templateVariables:
