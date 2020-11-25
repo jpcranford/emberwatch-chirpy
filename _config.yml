@@ -207,3 +207,18 @@ jekyll-archives:
   permalinks:
     tag: '/tags/:name/'
     category: '/categories/:name/'
+
+# Atom markdown-writer Settings
+frontMatterCustomFields:
+  author: "J.P. Cranford"
+  pin: false
+
+frontMatter: """
+ ---
+ layout: "{layout}"
+ title: "{title}"
+ author: "{author}"
+ date: "{date}"
+ pin: {pin}
+ ---
+"""
