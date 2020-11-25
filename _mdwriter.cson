@@ -46,20 +46,19 @@ newPostFileName: "{year}-{month}-{day}-{slug}{extension}"
 # Front matter add custom fields
 # - Configured as a key-value pair (fieldName: defaultValue)
 # - Referenced by fieldName
- frontMatterCustomFields:
+frontMatterCustomFields:
    author: "J.P. Cranford"
-   pin: false
 # Front matter date format, determines the {date} in frontMatter
 frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
 # Front matter template
 frontMatter: """
----
-layout: "{layout}"
-title: "{title}"
-author: "{author}"
-date: "{date}"
-pin: {pin}
----
+ ---
+ layout: "{layout}"
+ title: "{title}"
+ author: "{author}"
+ date: "{date}"
+ pin: false
+ ---
 """
 
 # File extension of posts/drafts
