@@ -1,6 +1,6 @@
 ---
 title: 'Recap Post Orc Stronghold'
-author: Kayin Krueger-Smith
+author: Kayin
 date: '2020-11-25 22:31'
 toc: false
 categories: Session Recaps
