@@ -1,5 +1,5 @@
 ---
-title: 'Recap: Post Orc Stronghold'
+title: 'Recap Post-Orc Stronghold'
 author: Kayin
 date: '2020-11-25 22:31'
 toc: false
