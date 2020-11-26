@@ -1,7 +1,7 @@
 ---
 title: 'Recap: Post-Orc Stronghold'
 author: Kayin and JP
-date: '2020-11-25 22:31'
+date: '2020-11-23 22:31'
 toc: false
 categories: Session Recaps
 tags: [Wolf, Shield-Bearer, Havrin Foespike, Ki, Rhogar]
