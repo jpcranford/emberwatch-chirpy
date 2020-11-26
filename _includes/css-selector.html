@@ -15,8 +15,8 @@
 {% if page.collection == 'tabs' and page.title != 'About' %}
 
 {% if page.title == 'Categories' %}
-<link rel="preload" href="{{ '{{ site.baseurl }}/assets/css/categories.css' | relative_url }}" as="style">
-<link rel="stylesheet" href="{{ '{{ site.baseurl }}/assets/css/categories.css' | relative_url }}">
+<link rel="preload" href="{{ '/assets/css/categories.css' | relative_url }}" as="style">
+<link rel="stylesheet" href="{{ '/assets/css/categories.css' | relative_url }}">
 
 {% elsif page.title == 'Tags' %}
 <link rel="preload" href="{{ '/emberwatch-chirpy/assets/css/tags.css' | relative_url }}" as="style">
