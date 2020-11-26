@@ -6,7 +6,21 @@ categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
 ---
+<!-- TOC -->
 
+- [Installation](#installation)
+    - [Setting up the local envrionment](#setting-up-the-local-envrionment)
+    - [Setting up Docker environment (optional)](#setting-up-docker-environment-optional)
+- [Usage](#usage)
+    - [Initialization](#initialization)
+    - [Configuration](#configuration)
+    - [Run Locally](#run-locally)
+    - [Run on Docker](#run-on-docker)
+    - [Deployment](#deployment)
+        - [Deploy on GitHub Pages](#deploy-on-github-pages)
+        - [Deploy on Other Platforms](#deploy-on-other-platforms)
+
+<!-- /TOC -->
 
 ## Installation
 
@@ -18,7 +32,7 @@ $ git clone https://github.com/USERNAME/USERNAME.github.io.git -b master --singl
 
 ### Setting up the local envrionment
 
-If you would like to run or build the project on your local machine, please follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems` and `Bundler`. 
+If you would like to run or build the project on your local machine, please follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems` and `Bundler`.
 
 Before running or building for the first time, please complete the installation of the Jekyll plugins. Go to the root directory of project and run:
 
@@ -56,7 +70,7 @@ What it does is:
     - files under `_posts`
     - folder `docs`
 
-2. If you use the `--no-gh` option, the directory `.github` will be deleted. Otherwise, setup the GitHub Action workflow by removing extension `.hook` of `.github/workflows/pages-deploy.yml.hook`, and then remove the other files and directories in folder `.github`. 
+2. If you use the `--no-gh` option, the directory `.github` will be deleted. Otherwise, setup the GitHub Action workflow by removing extension `.hook` of `.github/workflows/pages-deploy.yml.hook`, and then remove the other files and directories in folder `.github`.
 
 3. Automatically create a commit to save the changes.
 
