@@ -58,7 +58,7 @@ frontMatter: """
  author: "{author}"
  date: "{date}"
  pin: false
- toc: false
+ toc: true
  ---
 """
 
