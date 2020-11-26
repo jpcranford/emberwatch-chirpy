@@ -20,7 +20,7 @@ url: 'https://jpcranford.github.io'
 
 author: J.P. Cranford                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: "{{ site.baseurl }}/assets/img/sample/avatar.jpg"   # support internet resources
 
 github:
   username: jpcranford             # change to your github username
