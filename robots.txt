@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://jpcranford.github.io/emberwatch-chirpy/sitemap.xml

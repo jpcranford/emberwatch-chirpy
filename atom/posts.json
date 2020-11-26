@@ -1,0 +1,35 @@
+{
+    "posts": [
+        
+        {
+            "title": "Recap: After the Orc Stronghold",
+            "url": "https://jpcranford.github.io/posts/recap-after-orc-stronghold/",
+            "date": "2020-11-23T22:31:00-07:00"
+        },
+        
+        {
+            "title": "Tutorial: Customize the Favicon",
+            "url": "https://jpcranford.github.io/posts/customize-the-favicon/",
+            "date": "2019-08-10T10:34:00-06:00"
+        },
+        
+        {
+            "title": "Tutorial: Getting Started",
+            "url": "https://jpcranford.github.io/posts/getting-started/",
+            "date": "2019-08-09T06:55:00-06:00"
+        },
+        
+        {
+            "title": "Tutorial: Writing a New Post",
+            "url": "https://jpcranford.github.io/posts/write-a-new-post/",
+            "date": "2019-08-08T00:10:00-06:00"
+        },
+        
+        {
+            "title": "Tutorial: Text and Typography",
+            "url": "https://jpcranford.github.io/posts/text-and-typography/",
+            "date": "2019-08-07T21:33:00-06:00"
+        }
+        
+    ]
+}
