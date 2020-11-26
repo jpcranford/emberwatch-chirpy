@@ -53,12 +53,11 @@ frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
 # Front matter template
 frontMatter: """
  ---
- layout: "{layout}"
  title: "{title}"
  author: "{author}"
  date: "{date}"
- pin: false
- toc: true
+ # pin: true -- uncomment these to enable
+ # toc: false
  ---
 """
 
